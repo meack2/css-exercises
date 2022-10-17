@@ -1,0 +1,34 @@
+/* styles.css */
+
+/**
+#id attributes format {
+    background-color: white;
+}
+ID attributes should be used minimally. They can only be used once per page. 
+**/
+/**
+.class attributes format {
+    background-color: white; 
+}
+Class attributes should be the most common type of selector for css files. 
+**/
+
+.odds {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans,sans-serif, ;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#Second {
+    font-size: 36px;
+    color: blue;
+}
+
+#Fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style: bold;
+}
